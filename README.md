@@ -41,4 +41,4 @@ See documentation https://scikit-learn.org/stable/modules/generated/sklearn.naiv
 
 ## Run project on localhost:5000
 Execute the below command in the terminal 
-<p><code> pyhton app.py </code></p>
+<p><code> python app.py </code></p>
